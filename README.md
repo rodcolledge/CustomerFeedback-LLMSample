@@ -34,7 +34,9 @@ The SummariseFeedback.ipynb file contains the code to generate the summary. It u
  - Classification - Classifies the comment into things like Wait time, Price, rates etc. Adjust the prompt as appropriate
 
 ## PowerBI
-The CustomerInsights.pbix file contains the PowerBI report. Edit the data source to point to the output file from the Jupyter notebook which by default is written to ./output/AOAI-FeedbackSummary.csv
+The CustomerInsights.pbix file is the PowerBI report which visualizes the output of the code above. Edit the data source to point to your output file from the Jupyter notebook which by default is written to ./output/AOAI-FeedbackSummary.csv.
+
+You can replace the company logo as appropriate. By default, it uses ./output/logo.png which for the initial sample is a DALL-E generated logo for the ficticious Better Bank company.
 
 Adjust the Power BI dashboard as required to suit your needs. A sample of what the dashboard looks like is shown below
 
