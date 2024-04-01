@@ -1,5 +1,5 @@
 # Customer Insights demo with Azure OpenAI GPT
-Use GPT to summarise and extract insights from customer feedback
+Use Azure Open AI models to summarise and extract insights from customer feedback and visualise in PowerBI.
 
 # Setup
 The following steps are required to setup the solution.
