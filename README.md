@@ -8,7 +8,7 @@ The following steps are required to setup the solution.
 Create and edit a .env file with your Azure Open AI Service details
 
 ## Source data
-The CustomerFeedback.csv file contains the feedback data. Replace with your own data, or generate sythetic data using a prompt  such as this
+The CustomerFeedback.csv file contains the feedback data. Replace with your own data, or generate synthetic data using a prompt  such as this
 
 ---
 
